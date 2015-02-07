@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Jason Ederle, jederle@fb.com
+Jason Ederle, jason@funly.io
 
 ## License
 
