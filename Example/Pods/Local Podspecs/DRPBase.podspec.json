@@ -1,0 +1,25 @@
+{
+  "name": "DRPBase",
+  "version": "0.1.0",
+  "summary": "A short description of DRPBase.",
+  "description": "                       An optional longer description of DRPBase\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
+  "license": "MIT",
+  "authors": {
+    "Jason Ederle": "jason@funly.io"
+  },
+  "source": {
+    "path": "/Users/jederle/dropbox_personal/Projects/Private Pods/DRPBase"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DRPBase": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": "UIKit"
+}
