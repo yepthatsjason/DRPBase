@@ -1,5 +1,5 @@
 PODS:
-  - DRPBase (0.1.0)
+  - DRPBase (1.0.1)
 
 DEPENDENCIES:
   - DRPBase (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  DRPBase: 7491a3c5f71c7a9488ef1f66497e379833aba074
+  DRPBase: 28afa990722f62b2bb62116fd96d7a8343d6e7ff
 
 COCOAPODS: 0.36.0.beta.2
