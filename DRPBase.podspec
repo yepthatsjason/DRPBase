@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "DRPBase"
-  s.version          = "1.0.3"
+  s.version          = "1.0.4"
   s.summary          = "Logging and Require Macros"
   s.description      = <<-DESC
                        This pod brings in some basic common needs like logging,
